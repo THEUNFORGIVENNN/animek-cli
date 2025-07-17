@@ -6,7 +6,7 @@ bukan ani-cli ya bejir, ini versi gabut gua aja
 cara install
 git clone dlu atau copas aja orang selembar doang wkwk.
 
-    https://github.com/THEUNFORGIVENNN/animek-cli.git
+    git clone https://github.com/THEUNFORGIVENNN/animek-cli.git
     cd animek-cli
     pip install -U yt-dlp
     

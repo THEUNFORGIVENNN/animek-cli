@@ -7,10 +7,14 @@ cara install
 git clone dlu atau copas aja orang selembar doang wkwk
 pastiin juga udah executable, kalo belom:
 
-    chmod +x animek-cli
+    chmod +x animek-cli.sh
 
-kalo udah tinggal pindah ke ~/.local/bin/(disini) :
+ini udah bisa dijalanin, ketik aja:
 
+    ./animek-cli.sh
+
+# kalo mau bisa jalan tanpa (.sh)
+
+    mv animek-cli.sh animek-cli
     mv animek-cli ~/.local/bin/
-
   udah gitu doang

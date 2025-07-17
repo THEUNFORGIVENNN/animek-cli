@@ -11,6 +11,6 @@ pastiin juga udah executable, kalo belom:
 
 kalo udah tinggal pindah ke ~/.local/bin/(disini) :
 
-    mv animek-cli ~/.locak/bin/
+    mv animek-cli ~/.local/bin/
 
   udah gitu doang

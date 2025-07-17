@@ -3,7 +3,7 @@ bukan ani-cli ya bejir, ini versi gabut gua aja
   kalo mau dimodif + diotak atik silahkan..
 
 
-cara install,
+cara install
 
 git clone dlu atau copas aja orang selembar doang wkwk.
 
